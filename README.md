@@ -1,6 +1,6 @@
 - [Launchboard - Blue Community Consortium](https://bluecommunitysustainability.github.io/assessment/launch/index.html) Blue Community Launchboard #bluecommunity
 - [Blue Community Dashboard Expander](https://bluecommunitysustainability.github.io/assessment/dist/dist/index.html) Expansive dashboard for exploring destination communities and UN SDGs #sdgs#sustainability#bluecommunity
-[![image](./docs/media/osmosmemo-square-badge.svg)](#get-started)
+[![image](https://bluecommunitysustainability.github.io/assessment/destinations/icons/blue-sdgs-min.png)](#get-started)
 
 # osmos::memo
 
