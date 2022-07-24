@@ -1,3 +1,4 @@
+- [Blue Community Dashboard Expander](https://bluecommunitysustainability.github.io/assessment/dist/dist/index.html) Expansive dashboard for exploring destination communities and UN SDGs #sdgs#sustainability#bluecommunity
 [![image](./docs/media/osmosmemo-square-badge.svg)](#get-started)
 
 # osmos::memo
