@@ -1,3 +1,4 @@
+- [GSTC Criteria & UN SDGs](https://sustain.glide.page/dl/gstc) GSTC Criteria & UN SDGs #gstc#un-sdgs
 - [Google Civic Information Lookup - Blue Community](https://bluecommunitysustainability.github.io/assessment/civic/dist/index.html) Easily find your local civic leaders and contact information Google Civic Information Lookup - Blue Community #civic-leaders#bluecommunity#documentation
 - [Blue Community Docs](https://bluedocs.glide.page/dl/welcome) Documentation and getting started with the Blue Community Assessment #bluecommunity#documentation
 - [Launchboard - Blue Community Consortium](https://bluecommunitysustainability.github.io/assessment/launch/index.html) Blue Community Launchboard #bluecommunity
