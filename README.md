@@ -1,3 +1,4 @@
+- [Blue Community Assessment Roadmap Roadmap Blog](https://bluecommunities.blogspot.com/) #blog
 - [Blue Community Stakeholder Dashboard](https://bluecommunities.glide.page/dl/bluecommunities) Blue Community Stakeholder Dashboard #stakeholder#dashboard
 - [GSTC Criteria & UN SDGs](https://sustain.glide.page/dl/gstc) GSTC Criteria & UN SDGs #gstc#un-sdgs
 - [Google Civic Information Lookup - Blue Community](https://bluecommunitysustainability.github.io/assessment/civic/dist/index.html) Easily find your local civic leaders and contact information Google Civic Information Lookup - Blue Community #civic-leaders#bluecommunity#documentation
